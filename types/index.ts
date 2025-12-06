@@ -23,5 +23,3 @@ export interface Product {
     deliveryDate: string; 
     inStock: boolean;     
 }
-  
-  
